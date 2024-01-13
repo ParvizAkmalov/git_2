@@ -1,0 +1,192 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    padding: 0 125px;
+    background-color: #F6F7F9;
+}
+.content{
+    width: 100%;
+    height: 100px;
+    background-color: #00093C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 125px;
+}
+.li1{
+    display: flex;
+    gap: 80px;
+    font-size: 15px;
+}
+.ul1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+.img1{
+    width: 100px;
+    cursor: pointer;
+}
+.img2{
+    width: 20px;
+}
+.img3{
+    width: 20px;
+}
+.img4{
+    width: 20px;
+}
+.h11{
+    font-size: 36px;
+    padding: 15px 0 0 0;
+}
+
+.img5{
+    width: 50px;
+    cursor: pointer;
+}
+.odamlaryillari{
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.bolalar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.h22{
+    font-size: 16px;
+    cursor: pointer;
+}
+label{
+    font-size: 14px;
+}
+.input1{
+    width: 300px;
+    height: 100%;
+}
+.h31{
+    font-size: 20px;
+}
+
+.asosiy{
+    padding: 20px 0 0 0;
+    display: flex;
+}
+.h32{
+    font-size: 20px;
+}
+.buttonQism1{
+    width: 800px;
+    height: 180px;
+}
+.buttonasosoiy{
+    font-size: 14px;
+    padding: 16px 20px;
+    background-color: white;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.pastgiqism{
+    width: 850px;
+    height: 250px;
+}
+.left1{
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: #C7EEFF;
+    padding: 20px 0 0 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.right1{
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: #FFCE94;
+    padding: 20px 0 0 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.pastgiqism{
+    display: flex;
+    justify-content: space-between;
+}
+.img6{
+    width: 27px;
+    color: #000;
+}
+.akmalov{
+    display: flex;
+    gap: 13px;
+}
+.pastP1{
+    font-size: 14px;
+    color: #4F4F4F;
+}
+.pastgiqism2{
+    display: flex;
+    justify-content: space-between;
+}
+.jonibek{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.foiz10{
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #F11212;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 10;
+    margin-left: 810px;
+    margin-top: 190px;
+}
+.foiz11{
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #F11212;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 10;
+    margin-left: 360px;
+    margin-top: 190px;
+}
+.ansor{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 180px;
+    z-index: 10;
+}
